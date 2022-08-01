@@ -1,6 +1,6 @@
 # Is this a Metaverse?
 
-## Matthew Ball's "The Metaverse And How it Will Revolutionize Everything":
+## "The Metaverse And How it Will Revolutionize Everything"
 
 In his book [Metaverse](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/), [Matthew Ball](https://www.matthewball.vc/) offers an authoritative and well reasoned definition of what constitutes Metaverses, their key components, what differentiates them from games or multiplayer experiences, and the main challenges we still need to conquer in order to see an actual fully realized Metaverse come to life.
 
