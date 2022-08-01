@@ -1,6 +1,6 @@
 # Is this a Metaverse?
 
-## Matthew Ball's Metaverse definition
+## Matthew Ball's "The Metaverse And How it Will Revolutionize Everything":
 
 In his book [Metaverse](https://www.amazon.com/Metaverse-How-Will-Revolutionize-Everything/dp/1324092033/), [Matthew Ball](https://www.matthewball.vc/) offers an authoritative and well reasoned definition of what constitutes Metaverses, their key components, what differentiates them from games or multiplayer experiences, and the main challenges we still need to conquer in order to see an actual fully realized Metaverse come to life.
 
@@ -21,7 +21,7 @@ In his book [Metaverse](https://www.amazon.com/Metaverse-How-Will-Revolutionize-
 
 To the best of our knowledge, there isn't currently an app or platform that fits the full definition stated above. The table below includes some of the experiences most commonly described as Metaverses. Green denotes an app matches that the given requirements, red means it doesn't, yellow means partially or to some extent. Notice also that some of the definitions are vague and somewhat open to interpretation, in particular points 3 and 5 of Matt's definition.
 
-###  Matthew Ball's Framework
+### Matthew Ball's classification matrix
 
 | App | Persistent | Live | No CCU Cap | Economy | Open & Closed | Interoperable | UGC |
 |---|---|---|---|---|---|---|---|
